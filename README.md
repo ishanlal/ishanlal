@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishanlal
-- 👀 I’m interested in Front End Software Engineering
-- 🌱 I’m currently learning React Hooks
+- 👀 I’m interested in Front End Web Development
+- 🌱 I’m currently learning Full Stack JavaScript Development
 - 💞️ I’m looking to collaborate on Remote Work Opportunities
 - 📫 How to reach me Email: ishanlal@gmail.com
 
