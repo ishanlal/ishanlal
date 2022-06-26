@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishanlal
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning Full Stack JavaScript Development
-- 💞️ I’m looking to collaborate on Remote Work Opportunities
+- 👀 I’m interested in Full Stack Javascript Development.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on Remote Work Opportunities.
 - 📫 How to reach me Email: ishanlal@gmail.com
 
 <!---
