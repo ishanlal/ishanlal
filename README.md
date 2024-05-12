@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishanlal
-- 👀 I’m interested in Deep Learning.
-- 🌱 I’m currently learning Ethical Hacking.
+- 👀 I’m interested in AI/Deep Learning.
+- 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on Remote Full Stack Development Opportunities.
 - 📫 How to reach me Email: ishanlal@gmail.com
 
